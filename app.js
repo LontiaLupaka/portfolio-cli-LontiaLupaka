@@ -100,12 +100,12 @@ function handleChoice(choice) {
             rl.close();
             return;
         default:
-            console.log("Invalid choice. Please enter a number 1–5.");
+            console.log("Invalid choice. kindly enter an option 1 to 5.");
     }
     askMenu();
 }    
 function askMenu() {
     showMenu();
-    rl.question("Please enter an option 1–5. ", handleChoice);
+    rl.question("kindly enter an option 1 to 5. ", handleChoice);
 }
 askMenu();
