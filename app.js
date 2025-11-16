@@ -5,15 +5,16 @@ const rl=readline.createInterface({
 });
 
 function showMenu() {
-    console.log(`
-        ==========================
-            MY PORTFOLIO APP
-        ==========================
-        1. About Me
-        2. Skills I want to Learn
-        3. My Projects
-        4. My Future Plans
-        5. Exit    
+    console.log(`                  
+                ◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
+                      MY PORTFOLIO APP
+                ◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
+
+                 1. About Me
+                 2. Skills I want to Learn
+                 3. My Projects
+                 4. My Future Plans
+                 5. Exit    
         
          `);
 
