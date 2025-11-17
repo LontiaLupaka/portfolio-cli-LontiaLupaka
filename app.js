@@ -6,9 +6,9 @@ const rl=readline.createInterface({
 
 function showMenu() {
     console.log(`                  
-                ◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
-                      MY PORTFOLIO APP
-                ◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇
+                ===================================
+                        MY PORTFOLIO APP
+                ===================================
 
                  1. About Me
                  2. Skills I want to Learn
